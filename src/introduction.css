@@ -1,0 +1,11 @@
+html, body, .app, .app>.introduction {
+    height: 100%
+  }
+
+.introduction{
+    background-image: url("./intro_bg.jpg");
+    background-size: cover;
+    /* height: 100% */
+    height: 100vh;
+    width: 100%;
+}
